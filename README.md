@@ -1,2 +1,1 @@
-# videotracing
-A python tool that asks for a video and puts esp around every people in the video with a working esp tracing too. (Its just a beta yet so its not the best... It will be upgraded soon as possible
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=900&size=30&duration=3000&pause=1000&color=0981F7&background=FFFFFF00&center=true&vCenter=true&width=1245&lines=Python-Video-Tracer-Tool;+)](https://git.io/typing-svg)

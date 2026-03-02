@@ -54,7 +54,7 @@ def process_video():
         out.write(frame)
         
         # (Optional) Show the processing in real-time
-        cv2.imshow('Tracking People', frame)
+        cv2.imshow('Tracking People By Qores', frame)
         if cv2.waitKey(1) & 0xFF == ord('q'):
             break
 
@@ -65,4 +65,5 @@ def process_video():
     print("Finished! Video saved successfully.")
 
 if __name__ == "__main__":
+
     process_video()
